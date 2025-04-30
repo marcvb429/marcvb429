@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-i am marcvb429! and welcome to my README.md!
-Pronouns: he, they
+Hello! I am marcvb429! And welcome to my README.md!
 
 <!--
 **marcvb429/marcvb429** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
